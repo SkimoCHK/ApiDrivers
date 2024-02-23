@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>
+    </EncryptedPassword>
+    <_PublishTargetUrl>ftp://155.254.244.38/www.alexmarindinastia.somee.com</_PublishTargetUrl>
+    <History>True|2024-02-20T15:12:37.2407583Z;False|2024-02-20T08:08:53.0644685-07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>02/02/2024 12:18:52</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>02/15/2024 10:25:50</publishTime>
+    </File>
+    <File Include="AWSSDK.Core.dll">
+      <publishTime>11/09/2022 09:47:34</publishTime>
+    </File>
+    <File Include="AWSSDK.SecurityToken.dll">
+      <publishTime>11/09/2022 09:47:36</publishTime>
+    </File>
+    <File Include="DnsClient.dll">
+      <publishTime>06/10/2022 14:37:22</publishTime>
+    </File>
+    <File Include="Drivers.Api.deps.json">
+      <publishTime>02/20/2024 08:10:30</publishTime>
+    </File>
+    <File Include="Drivers.Api.dll">
+      <publishTime>02/20/2024 08:10:30</publishTime>
+    </File>
+    <File Include="Drivers.Api.exe">
+      <publishTime>02/20/2024 08:10:30</publishTime>
+    </File>
+    <File Include="Drivers.Api.pdb">
+      <publishTime>02/20/2024 08:10:30</publishTime>
+    </File>
+    <File Include="Drivers.Api.runtimeconfig.json">
+      <publishTime>02/20/2024 08:08:41</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.OpenApi.dll">
+      <publishTime>12/06/2022 20:43:24</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>09/26/2022 06:32:38</publishTime>
+    </File>
+    <File Include="MongoDB.Bson.dll">
+      <publishTime>12/15/2023 12:21:14</publishTime>
+    </File>
+    <File Include="MongoDB.Driver.Core.dll">
+      <publishTime>12/15/2023 12:21:20</publishTime>
+    </File>
+    <File Include="MongoDB.Driver.dll">
+      <publishTime>12/15/2023 12:21:28</publishTime>
+    </File>
+    <File Include="MongoDB.Libmongocrypt.dll">
+      <publishTime>06/01/2023 10:28:20</publishTime>
+    </File>
+    <File Include="runtimes/linux/native/libmongocrypt.so">
+      <publishTime>05/09/2023 06:05:12</publishTime>
+    </File>
+    <File Include="runtimes/osx/native/libmongocrypt.dylib">
+      <publishTime>05/09/2023 06:05:28</publishTime>
+    </File>
+    <File Include="runtimes/win/native/mongocrypt.dll">
+      <publishTime>05/09/2023 06:04:40</publishTime>
+    </File>
+    <File Include="SharpCompress.dll">
+      <publishTime>11/22/2021 02:21:32</publishTime>
+    </File>
+    <File Include="Snappier.dll">
+      <publishTime>01/23/2021 10:43:32</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>07/19/2022 09:21:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>07/19/2022 09:21:38</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>07/19/2022 09:21:48</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>02/20/2024 08:11:14</publishTime>
+    </File>
+    <File Include="ZstdSharp.dll">
+      <publishTime>10/18/2023 09:06:06</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
