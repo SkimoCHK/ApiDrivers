@@ -56,7 +56,7 @@ public class DriversController : ControllerBase
         
         drive.id = id;
 
-        await _driverServices.UpdatetDriver(drive);
+        await _driverServices.UpdateDriver(drive);
         return Created("Created", true);
     }
 

@@ -32,9 +32,8 @@ public class DriverServices
         {
             await _driversCollection.InsertOneAsync(driver);
         }
-
-        
-        public async Task UpdatetDriver(Drive drive)
+     
+        public async Task UpdateDriver(Drive drive)
         {
             var filter = Builders<Drive>.Filter.Eq(s => s.id, drive.id);
             await _driversCollection.ReplaceOneAsync(filter, drive);
